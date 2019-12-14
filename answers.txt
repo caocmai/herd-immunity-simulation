@@ -1,0 +1,15 @@
+1. The inputs for the simulation in the command prompt:
+python3 simulation.py 5000 0.88 Diphtheria 0.60 .08 15
+
+They represent:
+Population size: 5000
+Percent vaccinated: 88 Percent
+Virus name: Diphtheria
+Mortality rate: .08
+Reproductive rate: .60
+
+2. The percentage of population that became infected was 0.2648% 
+
+3. The percentage of population that died was 0.0092%
+
+4. Total interactions that saved individuals from infection due in vaccination was 54963
